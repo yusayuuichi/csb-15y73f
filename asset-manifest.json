@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://yusayuuichi.github.io/csb-15y73f/static/css/main.ede16f6c.chunk.css",
+    "main.js": "https://yusayuuichi.github.io/csb-15y73f/static/js/main.d0e8c75a.chunk.js",
+    "main.js.map": "https://yusayuuichi.github.io/csb-15y73f/static/js/main.d0e8c75a.chunk.js.map",
+    "runtime-main.js": "https://yusayuuichi.github.io/csb-15y73f/static/js/runtime-main.2987e2ba.js",
+    "runtime-main.js.map": "https://yusayuuichi.github.io/csb-15y73f/static/js/runtime-main.2987e2ba.js.map",
+    "static/css/2.984f751f.chunk.css": "https://yusayuuichi.github.io/csb-15y73f/static/css/2.984f751f.chunk.css",
+    "static/js/2.d47024dd.chunk.js": "https://yusayuuichi.github.io/csb-15y73f/static/js/2.d47024dd.chunk.js",
+    "static/js/2.d47024dd.chunk.js.map": "https://yusayuuichi.github.io/csb-15y73f/static/js/2.d47024dd.chunk.js.map",
+    "index.html": "https://yusayuuichi.github.io/csb-15y73f/index.html",
+    "static/css/2.984f751f.chunk.css.map": "https://yusayuuichi.github.io/csb-15y73f/static/css/2.984f751f.chunk.css.map",
+    "static/css/main.ede16f6c.chunk.css.map": "https://yusayuuichi.github.io/csb-15y73f/static/css/main.ede16f6c.chunk.css.map",
+    "static/js/2.d47024dd.chunk.js.LICENSE.txt": "https://yusayuuichi.github.io/csb-15y73f/static/js/2.d47024dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2987e2ba.js",
+    "static/css/2.984f751f.chunk.css",
+    "static/js/2.d47024dd.chunk.js",
+    "static/css/main.ede16f6c.chunk.css",
+    "static/js/main.d0e8c75a.chunk.js"
+  ]
+}
